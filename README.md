@@ -38,9 +38,18 @@
 
 ## 6주차
  -두개의 버튼을 추가 삽입
+ 
+ 
   <img width="300" heigh="700" src="./png/6주차과제.jpg"></img>
+  
+  
    - width
+   
+   
    <img width="300" heigh="700" src="./png/버튼1.jpg"></img>
+   
    - height
+   
+   
    <img width="300" heigh="700" src="./png/버튼2.jpg"></img>
  
