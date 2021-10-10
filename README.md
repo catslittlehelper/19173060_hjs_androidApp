@@ -34,3 +34,12 @@
 <img width="300" heigh="700" src="./png/이미지바꾸기.jpg"></img>
 
 <img width="300" heigh="700" src="./png/이미지바꾸기2.jpg"></img>
+
+
+## 6주차
+ -두개의 버튼을 추가 삽입
+   - width
+   <img width="300" heigh="700" src="./png/버튼.jpg"></img>
+   - height
+   <img width="300" heigh="700" src="./png/버튼2.jpg"></img>
+ 
