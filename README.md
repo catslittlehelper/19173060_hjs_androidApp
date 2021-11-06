@@ -69,19 +69,19 @@
 ## 10주차
 - 여러화면 만들고, 화면간 전환하기
 
-       -돌아가기
+  - 돌아가기
  
-               <img width="300" heigh="700" src="./png/10주차 과제.jpg"></img>
+     <img width="300" heigh="700" src="./png/10주차 과제.jpg"></img>
     
-        -액티비티
+  - 액티비티
     
-               <img width="300" heigh="700" src="./png/10주차 과제2.jpg"></img>
+     <img width="300" heigh="700" src="./png/10주차 과제2.jpg"></img>
      
-        -메서드 호출
+  - 메서드 호출
     
-              <img width="300" heigh="700" src="./png/3.jpg"></img>
+     <img width="300" heigh="700" src="./png/3.jpg"></img>
        
-         - 응답
+   - 응답
     
-              <img width="300" heigh="700" src="./png/4.jpg"></img>
+     <img width="300" heigh="700" src="./png/4.jpg"></img>
     
